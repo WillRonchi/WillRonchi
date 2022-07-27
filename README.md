@@ -1,10 +1,10 @@
-### Hi there 👋
+### Olá!! Eu sou o William Ronchi 🤙
+### Seja bem-vindo ao meu GitHub
 
-- 🔭 I’m currently working on WEG Company
-- 🌱 I’m currently learning C# .NET and JAVA
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💼 Trabalhando atualmente na WEG Motores
+- 🌱 Estudando: C# .NET, JAVA e Fluter
+- Conhecimento em: C++ e Python
+- Pronomes: Ele, Dele 
+- Perfil Linkedin: https://www.linkedin.com/in/william-ronchi/
+
+### Qualquer dúvida ou comentário pode me contatar pelo Email: williamn.ronchi@outlook.com
