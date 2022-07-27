@@ -1,7 +1,7 @@
 ### Hi there!! I'm William Ronchi and welcome to my GitHub 🤙
 
 - Working in WEG S.A.
-- I'm currently learning: C# .NET, Java e Fluter
+- I'm currently learning: C# .NET, Java and Fluter
 - Knowledge in: HTML, CSS, C++ and Python
 - Software engineering student in University Católica de Santa Catarina
 
