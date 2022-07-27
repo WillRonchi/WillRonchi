@@ -3,7 +3,7 @@
 
 - Working in WEG S.A.
 - I'm currently learning: C# .NET, JAVA e Fluter
-- Conhecimento em: HTML, CSS, C++ and Python
+- Knowledge in: HTML, CSS, C++ and Python
 - Software engineering student in University Católica de Santa Catarina
 
 <div>
