@@ -7,4 +7,4 @@
 - Pronomes: Ele, Dele 
 - Perfil Linkedin: https://www.linkedin.com/in/william-ronchi/
 
-Qualquer dúvida ou comentário pode me contatar pelo Email: williamn.ronchi@outlook.com
+Qualquer dúvida ou comentário pode me contatar pelo Email: william.ronchi@outlook.com
