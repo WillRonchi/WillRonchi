@@ -1,5 +1,4 @@
-### Hi there!! I'm William Ronchi 🤙
-### Welcome to my GitHub
+### Hi there!! I'm William Ronchi and welcome to my GitHub 🤙
 
 - Working in WEG S.A.
 - I'm currently learning: C# .NET, JAVA e Fluter
