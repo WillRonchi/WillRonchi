@@ -3,7 +3,7 @@
 - Working in WEG S.A.
 - I'm currently learning in university: Java and Flutter
 - Learning for projects: C# .NET / VueJS
-- Knowledge in: HTML and C++;
+- Knowledge in: HTML, CSS and C++;
 - Software engineering student in University Católica de Santa Catarina;
 
 <div>
